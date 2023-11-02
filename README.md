@@ -1,3 +1,5 @@
+## W.I.P - still in development
+
 # Quotastic - Frontend
 
 Welcome to the Quotastic frontend repository! Quotastic is an application that inspires and motivates users through a collection of motivational quotes. This frontend allows users to register, create motivational quotes, review other users' quotes, and engage with the community through voting and interactions.
